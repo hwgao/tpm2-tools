@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/hwgao/tpm-tools/cmd"
+import "github.com/hwgao/tpm2-tools/cmd"
 
 func main() {
 	cmd.Execute()
